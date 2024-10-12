@@ -1243,7 +1243,6 @@ top_arrow
 }
 .wel_txt  {
     margin-top: 16px;
-    display: flex;
     align-items: center;
 }
 .btn-light{
